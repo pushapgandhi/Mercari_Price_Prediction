@@ -13,7 +13,7 @@ Model	Feature Type	Best Param	Train Error	Validation Error	Test Error
 0		-	-	0.7267	0.7255	0.72753
 
 
-S No | Model	Feature | Type | Best Param | Train Error	 | Validation Error | Test Error 
+S No | #Model	Feature | #Type | #Best Param | #Train Error	 | #Validation Error |# Test Error 
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 1	| Lasso |	Label Endoing+Word2Vec|	1e-05|	0.6043|	0.6037|	0.60518
 2	| Ridge	Label Endoing+Word2Vec |	10	|0.6043	|0.6037|	0.60518
