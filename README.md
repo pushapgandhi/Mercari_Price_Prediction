@@ -10,9 +10,9 @@ The problem is quite straightforward to understand where given the details of th
 # Results
 
 
-| S No | Model	Feature | Type | Best Param | Train Error | Validation Error | Test Error 
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-| 1	| Lasso |	Label Endoing+Word2Vec|	1e-05|	0.6043|	0.6037|	0.60518
+| S No | Model	Feature | Type | Best Param | Train Error | Validation Error | Test Error |
+| --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |
+| 1	| Lasso |	Label Endoing+Word2Vec|	1e-05|	0.6043|	0.6037|	0.60518 |
 
 
 2	| Ridge	Label Endoing+Word2Vec |	10	|0.6043	|0.6037|	0.60518
