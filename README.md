@@ -9,7 +9,7 @@ The problem is quite straightforward to understand where given the details of th
 
 # Results
 
- Model (Feature Type)	==> Test Error
+ Model (Feature Type)	==> Test Error__
  0	Benchmark	==>	0.72753
  1	Lasso	Label (Label Endoing+Word2Vec)	==>	0.60518
  2	Ridge	Label (Label Endoing+Word2Vec) ==>	0.60518
