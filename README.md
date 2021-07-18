@@ -19,3 +19,7 @@ Model	Feature Type	Best Param	Train Error	Validation Error	Test Error
 6	linear Regression	One hot endoding + Tfidf	-	0.4241	0.462	0.4621
 7	Ridge	One hot endoding + Tfidf	10	4414	0.4581	0.45831
 8	Deep Learning	Embedding	-	0.4	0.4316	0.43311
+
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
