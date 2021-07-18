@@ -10,7 +10,11 @@ The problem is quite straightforward to understand where given the details of th
 # Results
 
 Model	Feature Type	Best Param	Train Error	Validation Error	Test Error
-0	Benchmark	-	-	0.7267	0.7255	0.72753
+0		-	-	0.7267	0.7255	0.72753
+
+
+S No | Model	Feature | Type | Best Param | Train Error	 | Validation Error | Test Error 
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 1	Lasso	Label Endoing+Word2Vec	1e-05	0.6043	0.6037	0.60518
 2	Ridge	Label Endoing+Word2Vec	10	0.6043	0.6037	0.60518
 3	Decision Tree	Label Endoing+Word2Vec	10	0.6273	0.6353	0.637
@@ -19,9 +23,3 @@ Model	Feature Type	Best Param	Train Error	Validation Error	Test Error
 6	linear Regression	One hot endoding + Tfidf	-	0.4241	0.462	0.4621
 7	Ridge	One hot endoding + Tfidf	10	4414	0.4581	0.45831
 8	Deep Learning	Embedding	-	0.4	0.4316	0.43311
-
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
