@@ -18,7 +18,7 @@ The problem is quite straightforward to understand where given the details of th
  5	Light GBM	(Label Endoing+Word2Vec) ==>	0.5005 <br />
  6	linear Regression	(One hot endoding + Tfidf) ==>0.4621 <br />
  7	Ridge	(One hot endoding + Tfidf)	==>	0.45831 <br />
- 8	Deep Learning	==>0.43311 <br />
+ 8	Deep Learning (LSTM)	==>0.43311 <br />
 
 
 
